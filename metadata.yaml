@@ -1,0 +1,42 @@
+_repo: -Doc.-Gordon_15695
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freeman, Mary Eleanor Wilkins
+    aliases:
+    - Wilkins, Mary Ella
+    - Wilkins, Mary E. (Mary Eleanor)
+    - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
+    - Wilkins, Mary Eleanor
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '495'
+    url: http://www.gutenberg.org/2009/agents/495
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+description: ''
+gutenberg_issued: '2005-04-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15695'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'New Jersey -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+title: '''Doc.'' Gordon'
+url: http://www.gutenberg.org/ebooks/15695
